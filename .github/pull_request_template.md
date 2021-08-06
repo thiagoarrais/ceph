@@ -31,8 +31,9 @@ https://raw.githubusercontent.com/ceph/ceph/master/SubmittingPatches.rst
 
 -->
 ## Checklist
-- [ ] References tracker ticket
-- [ ] Updates documentation if necessary
+- [ ] References [tracker ticket](https://tracker.ceph.com/issues/new)
+  - [ ] References tracker ticket to [Dashboard](https://tracker.ceph.com/projects/dashboard/issues/new) and [Orchestrator](https://tracker.ceph.com/projects/orchestrator/issues/new) (if necessary)
+- [ ] Updates [documentation](https://docs.ceph.com/en/latest/) (if necessary)
 - [ ] Includes tests for new functionality or reproducer for bug
 
 ---
